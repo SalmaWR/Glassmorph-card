@@ -9,13 +9,12 @@ The glassmorphism trend involves creating glass-like or frosted glass UI element
 ## Features
 
 - HTML and CSS code for implementing the glassmorphism effect
-- Ready-to-use card templates
+- Ready-to-use card templates.
 - Documentation on how to use and customize the cards
-- Examples and demos
+- Examples and demos.
 
 Feel free to explore the code, customize the cards to fit your project's design, and contribute to the repository!
 
 ## Usage
 
 To use the glassmorphism cards in your project, simply clone this repository or download the source files. Then, integrate the HTML and CSS code into your project and customize as needed.
-
